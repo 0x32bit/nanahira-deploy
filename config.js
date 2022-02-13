@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: 'n!',
-        token: 'ODIwODU5MDUwMzA4NTM0Mjky.YE7SkA.TrlntqessRnrHCgh4_B73zVLd44',
+        token: 'ODIwODU5MDUwMzA4NTM0Mjky.YE7SkA.ypaE3nguy4N-kwdy7tCIIU4qqbs',
         playing: 'Do n!help for more commands!'
     },
 
