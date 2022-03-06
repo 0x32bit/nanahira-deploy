@@ -27,7 +27,7 @@ module.exports = {
         embed.setDescription(`Volume **${queue.volume}**%\nDuration **${trackDuration}**\nLoop mode **${methods[queue.repeatMode]}**\nRequested by ${track.requestedBy}`);
 
         embed.setTimestamp();
-        embed.setFooter('Nothing to do? Just Hear Ur Trash Taste Music!', message.author.avatarURL({ dynamic: true }));
+        embed.setFooter('Nothing to do? Just Hear Your Favorite Music!', message.author.avatarURL({ dynamic: true }));
 
         const saveButton = new MessageButton();
 
