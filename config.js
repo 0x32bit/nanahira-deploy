@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: 'n!',
         token: 'ODIwODU5MDUwMzA4NTM0Mjky.YE7SkA.ypaE3nguy4N-kwdy7tCIIU4qqbs',
-        playing: 'Do n!help | ${client.guilds.cache.size} servers
+        playing: 'Do n!help for more command
     },
 
     opt: {
